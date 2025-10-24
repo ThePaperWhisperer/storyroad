@@ -2,14 +2,14 @@
   "background_color": "#000000",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Story Run",
-  "description": "a fun free running app",
+  "name": "Story Road",
+  "description": "a fun free driving app",
   "orientation": "any",
   "scope": "/",
-  "short_name": "storyrun",
+  "short_name": "storyroad",
   "start_url": "/",
   "theme_color": "#000000",
-  "id": "storyrun",
+  "id": "storyroad",
   "icons": [
     {
       "src": "iconroad.png",
